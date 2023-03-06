@@ -1,0 +1,15 @@
+D:\GitHub_Repos\csharp_examples\CSharpArchivos\bin\Debug\net7.0\CSharpArchivos.exe
+D:\GitHub_Repos\csharp_examples\CSharpArchivos\bin\Debug\net7.0\CSharpArchivos.deps.json
+D:\GitHub_Repos\csharp_examples\CSharpArchivos\bin\Debug\net7.0\CSharpArchivos.runtimeconfig.json
+D:\GitHub_Repos\csharp_examples\CSharpArchivos\bin\Debug\net7.0\CSharpArchivos.dll
+D:\GitHub_Repos\csharp_examples\CSharpArchivos\bin\Debug\net7.0\CSharpArchivos.pdb
+D:\GitHub_Repos\csharp_examples\CSharpArchivos\obj\Debug\net7.0\CSharpArchivos.csproj.AssemblyReference.cache
+D:\GitHub_Repos\csharp_examples\CSharpArchivos\obj\Debug\net7.0\CSharpArchivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Repos\csharp_examples\CSharpArchivos\obj\Debug\net7.0\CSharpArchivos.AssemblyInfoInputs.cache
+D:\GitHub_Repos\csharp_examples\CSharpArchivos\obj\Debug\net7.0\CSharpArchivos.AssemblyInfo.cs
+D:\GitHub_Repos\csharp_examples\CSharpArchivos\obj\Debug\net7.0\CSharpArchivos.csproj.CoreCompileInputs.cache
+D:\GitHub_Repos\csharp_examples\CSharpArchivos\obj\Debug\net7.0\CSharpArchivos.dll
+D:\GitHub_Repos\csharp_examples\CSharpArchivos\obj\Debug\net7.0\refint\CSharpArchivos.dll
+D:\GitHub_Repos\csharp_examples\CSharpArchivos\obj\Debug\net7.0\CSharpArchivos.pdb
+D:\GitHub_Repos\csharp_examples\CSharpArchivos\obj\Debug\net7.0\CSharpArchivos.genruntimeconfig.cache
+D:\GitHub_Repos\csharp_examples\CSharpArchivos\obj\Debug\net7.0\ref\CSharpArchivos.dll
