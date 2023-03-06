@@ -28,7 +28,7 @@ namespace CSharpArchivosInputOutput
             try
             {
                 //Pass the filepath and filename to the StreamWriter Constructor
-                StreamWriter sw = new StreamWriter("../HelloWorld.txt");
+                StreamWriter sw = new StreamWriter("../HelloWorld.txt", append: true);
                 //Write a line of text
                 sw.WriteLine(nombreCompleto);
                 //Close the file
