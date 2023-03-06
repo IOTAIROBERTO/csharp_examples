@@ -1,0 +1,15 @@
+D:\AsignaturaPOO_Coding\Reloj\bin\Debug\net7.0\Reloj.exe
+D:\AsignaturaPOO_Coding\Reloj\bin\Debug\net7.0\Reloj.deps.json
+D:\AsignaturaPOO_Coding\Reloj\bin\Debug\net7.0\Reloj.runtimeconfig.json
+D:\AsignaturaPOO_Coding\Reloj\bin\Debug\net7.0\Reloj.dll
+D:\AsignaturaPOO_Coding\Reloj\bin\Debug\net7.0\Reloj.pdb
+D:\AsignaturaPOO_Coding\Reloj\obj\Debug\net7.0\Reloj.csproj.AssemblyReference.cache
+D:\AsignaturaPOO_Coding\Reloj\obj\Debug\net7.0\Reloj.GeneratedMSBuildEditorConfig.editorconfig
+D:\AsignaturaPOO_Coding\Reloj\obj\Debug\net7.0\Reloj.AssemblyInfoInputs.cache
+D:\AsignaturaPOO_Coding\Reloj\obj\Debug\net7.0\Reloj.AssemblyInfo.cs
+D:\AsignaturaPOO_Coding\Reloj\obj\Debug\net7.0\Reloj.csproj.CoreCompileInputs.cache
+D:\AsignaturaPOO_Coding\Reloj\obj\Debug\net7.0\Reloj.dll
+D:\AsignaturaPOO_Coding\Reloj\obj\Debug\net7.0\refint\Reloj.dll
+D:\AsignaturaPOO_Coding\Reloj\obj\Debug\net7.0\Reloj.pdb
+D:\AsignaturaPOO_Coding\Reloj\obj\Debug\net7.0\Reloj.genruntimeconfig.cache
+D:\AsignaturaPOO_Coding\Reloj\obj\Debug\net7.0\ref\Reloj.dll

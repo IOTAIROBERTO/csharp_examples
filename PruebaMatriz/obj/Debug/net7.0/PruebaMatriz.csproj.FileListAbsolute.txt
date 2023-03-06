@@ -1,0 +1,15 @@
+D:\AsignaturaPOO_Coding\PruebaMatriz\bin\Debug\net7.0\PruebaMatriz.exe
+D:\AsignaturaPOO_Coding\PruebaMatriz\bin\Debug\net7.0\PruebaMatriz.deps.json
+D:\AsignaturaPOO_Coding\PruebaMatriz\bin\Debug\net7.0\PruebaMatriz.runtimeconfig.json
+D:\AsignaturaPOO_Coding\PruebaMatriz\bin\Debug\net7.0\PruebaMatriz.dll
+D:\AsignaturaPOO_Coding\PruebaMatriz\bin\Debug\net7.0\PruebaMatriz.pdb
+D:\AsignaturaPOO_Coding\PruebaMatriz\obj\Debug\net7.0\PruebaMatriz.csproj.AssemblyReference.cache
+D:\AsignaturaPOO_Coding\PruebaMatriz\obj\Debug\net7.0\PruebaMatriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\AsignaturaPOO_Coding\PruebaMatriz\obj\Debug\net7.0\PruebaMatriz.AssemblyInfoInputs.cache
+D:\AsignaturaPOO_Coding\PruebaMatriz\obj\Debug\net7.0\PruebaMatriz.AssemblyInfo.cs
+D:\AsignaturaPOO_Coding\PruebaMatriz\obj\Debug\net7.0\PruebaMatriz.csproj.CoreCompileInputs.cache
+D:\AsignaturaPOO_Coding\PruebaMatriz\obj\Debug\net7.0\PruebaMatriz.dll
+D:\AsignaturaPOO_Coding\PruebaMatriz\obj\Debug\net7.0\refint\PruebaMatriz.dll
+D:\AsignaturaPOO_Coding\PruebaMatriz\obj\Debug\net7.0\PruebaMatriz.pdb
+D:\AsignaturaPOO_Coding\PruebaMatriz\obj\Debug\net7.0\PruebaMatriz.genruntimeconfig.cache
+D:\AsignaturaPOO_Coding\PruebaMatriz\obj\Debug\net7.0\ref\PruebaMatriz.dll

@@ -1,0 +1,15 @@
+D:\AsignaturaPOO_Coding\AreaCuadrado\obj\Debug\net7.0\AreaCuadrado.csproj.AssemblyReference.cache
+D:\AsignaturaPOO_Coding\AreaCuadrado\obj\Debug\net7.0\AreaCuadrado.GeneratedMSBuildEditorConfig.editorconfig
+D:\AsignaturaPOO_Coding\AreaCuadrado\obj\Debug\net7.0\AreaCuadrado.AssemblyInfoInputs.cache
+D:\AsignaturaPOO_Coding\AreaCuadrado\obj\Debug\net7.0\AreaCuadrado.AssemblyInfo.cs
+D:\AsignaturaPOO_Coding\AreaCuadrado\obj\Debug\net7.0\AreaCuadrado.csproj.CoreCompileInputs.cache
+D:\AsignaturaPOO_Coding\AreaCuadrado\bin\Debug\net7.0\AreaCuadrado.exe
+D:\AsignaturaPOO_Coding\AreaCuadrado\bin\Debug\net7.0\AreaCuadrado.deps.json
+D:\AsignaturaPOO_Coding\AreaCuadrado\bin\Debug\net7.0\AreaCuadrado.runtimeconfig.json
+D:\AsignaturaPOO_Coding\AreaCuadrado\bin\Debug\net7.0\AreaCuadrado.dll
+D:\AsignaturaPOO_Coding\AreaCuadrado\bin\Debug\net7.0\AreaCuadrado.pdb
+D:\AsignaturaPOO_Coding\AreaCuadrado\obj\Debug\net7.0\AreaCuadrado.dll
+D:\AsignaturaPOO_Coding\AreaCuadrado\obj\Debug\net7.0\refint\AreaCuadrado.dll
+D:\AsignaturaPOO_Coding\AreaCuadrado\obj\Debug\net7.0\AreaCuadrado.pdb
+D:\AsignaturaPOO_Coding\AreaCuadrado\obj\Debug\net7.0\AreaCuadrado.genruntimeconfig.cache
+D:\AsignaturaPOO_Coding\AreaCuadrado\obj\Debug\net7.0\ref\AreaCuadrado.dll

@@ -1,0 +1,15 @@
+D:\AsignaturaPOO_Coding\ParImpar\bin\Debug\net7.0\ParImpar.exe
+D:\AsignaturaPOO_Coding\ParImpar\bin\Debug\net7.0\ParImpar.deps.json
+D:\AsignaturaPOO_Coding\ParImpar\bin\Debug\net7.0\ParImpar.runtimeconfig.json
+D:\AsignaturaPOO_Coding\ParImpar\bin\Debug\net7.0\ParImpar.dll
+D:\AsignaturaPOO_Coding\ParImpar\bin\Debug\net7.0\ParImpar.pdb
+D:\AsignaturaPOO_Coding\ParImpar\obj\Debug\net7.0\ParImpar.csproj.AssemblyReference.cache
+D:\AsignaturaPOO_Coding\ParImpar\obj\Debug\net7.0\ParImpar.GeneratedMSBuildEditorConfig.editorconfig
+D:\AsignaturaPOO_Coding\ParImpar\obj\Debug\net7.0\ParImpar.AssemblyInfoInputs.cache
+D:\AsignaturaPOO_Coding\ParImpar\obj\Debug\net7.0\ParImpar.AssemblyInfo.cs
+D:\AsignaturaPOO_Coding\ParImpar\obj\Debug\net7.0\ParImpar.csproj.CoreCompileInputs.cache
+D:\AsignaturaPOO_Coding\ParImpar\obj\Debug\net7.0\ParImpar.dll
+D:\AsignaturaPOO_Coding\ParImpar\obj\Debug\net7.0\refint\ParImpar.dll
+D:\AsignaturaPOO_Coding\ParImpar\obj\Debug\net7.0\ParImpar.pdb
+D:\AsignaturaPOO_Coding\ParImpar\obj\Debug\net7.0\ParImpar.genruntimeconfig.cache
+D:\AsignaturaPOO_Coding\ParImpar\obj\Debug\net7.0\ref\ParImpar.dll

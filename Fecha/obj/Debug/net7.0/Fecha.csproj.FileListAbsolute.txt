@@ -1,0 +1,15 @@
+D:\AsignaturaPOO_Coding\Fecha\bin\Debug\net7.0\Fecha.exe
+D:\AsignaturaPOO_Coding\Fecha\bin\Debug\net7.0\Fecha.deps.json
+D:\AsignaturaPOO_Coding\Fecha\bin\Debug\net7.0\Fecha.runtimeconfig.json
+D:\AsignaturaPOO_Coding\Fecha\bin\Debug\net7.0\Fecha.dll
+D:\AsignaturaPOO_Coding\Fecha\bin\Debug\net7.0\Fecha.pdb
+D:\AsignaturaPOO_Coding\Fecha\obj\Debug\net7.0\Fecha.csproj.AssemblyReference.cache
+D:\AsignaturaPOO_Coding\Fecha\obj\Debug\net7.0\Fecha.GeneratedMSBuildEditorConfig.editorconfig
+D:\AsignaturaPOO_Coding\Fecha\obj\Debug\net7.0\Fecha.AssemblyInfoInputs.cache
+D:\AsignaturaPOO_Coding\Fecha\obj\Debug\net7.0\Fecha.AssemblyInfo.cs
+D:\AsignaturaPOO_Coding\Fecha\obj\Debug\net7.0\Fecha.csproj.CoreCompileInputs.cache
+D:\AsignaturaPOO_Coding\Fecha\obj\Debug\net7.0\Fecha.dll
+D:\AsignaturaPOO_Coding\Fecha\obj\Debug\net7.0\refint\Fecha.dll
+D:\AsignaturaPOO_Coding\Fecha\obj\Debug\net7.0\Fecha.pdb
+D:\AsignaturaPOO_Coding\Fecha\obj\Debug\net7.0\Fecha.genruntimeconfig.cache
+D:\AsignaturaPOO_Coding\Fecha\obj\Debug\net7.0\ref\Fecha.dll

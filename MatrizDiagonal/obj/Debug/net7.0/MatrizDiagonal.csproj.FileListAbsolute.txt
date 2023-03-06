@@ -1,0 +1,15 @@
+D:\AsignaturaPOO_Coding\MatrizDiagonal\obj\Debug\net7.0\MatrizDiagonal.csproj.AssemblyReference.cache
+D:\AsignaturaPOO_Coding\MatrizDiagonal\obj\Debug\net7.0\MatrizDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\AsignaturaPOO_Coding\MatrizDiagonal\obj\Debug\net7.0\MatrizDiagonal.AssemblyInfoInputs.cache
+D:\AsignaturaPOO_Coding\MatrizDiagonal\obj\Debug\net7.0\MatrizDiagonal.AssemblyInfo.cs
+D:\AsignaturaPOO_Coding\MatrizDiagonal\obj\Debug\net7.0\MatrizDiagonal.csproj.CoreCompileInputs.cache
+D:\AsignaturaPOO_Coding\MatrizDiagonal\bin\Debug\net7.0\MatrizDiagonal.exe
+D:\AsignaturaPOO_Coding\MatrizDiagonal\bin\Debug\net7.0\MatrizDiagonal.deps.json
+D:\AsignaturaPOO_Coding\MatrizDiagonal\bin\Debug\net7.0\MatrizDiagonal.runtimeconfig.json
+D:\AsignaturaPOO_Coding\MatrizDiagonal\bin\Debug\net7.0\MatrizDiagonal.dll
+D:\AsignaturaPOO_Coding\MatrizDiagonal\bin\Debug\net7.0\MatrizDiagonal.pdb
+D:\AsignaturaPOO_Coding\MatrizDiagonal\obj\Debug\net7.0\MatrizDiagonal.dll
+D:\AsignaturaPOO_Coding\MatrizDiagonal\obj\Debug\net7.0\refint\MatrizDiagonal.dll
+D:\AsignaturaPOO_Coding\MatrizDiagonal\obj\Debug\net7.0\MatrizDiagonal.pdb
+D:\AsignaturaPOO_Coding\MatrizDiagonal\obj\Debug\net7.0\MatrizDiagonal.genruntimeconfig.cache
+D:\AsignaturaPOO_Coding\MatrizDiagonal\obj\Debug\net7.0\ref\MatrizDiagonal.dll

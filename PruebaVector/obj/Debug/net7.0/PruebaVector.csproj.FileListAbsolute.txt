@@ -1,0 +1,15 @@
+D:\AsignaturaPOO_Coding\PruebaVector\bin\Debug\net7.0\PruebaVector.exe
+D:\AsignaturaPOO_Coding\PruebaVector\bin\Debug\net7.0\PruebaVector.deps.json
+D:\AsignaturaPOO_Coding\PruebaVector\bin\Debug\net7.0\PruebaVector.runtimeconfig.json
+D:\AsignaturaPOO_Coding\PruebaVector\bin\Debug\net7.0\PruebaVector.dll
+D:\AsignaturaPOO_Coding\PruebaVector\bin\Debug\net7.0\PruebaVector.pdb
+D:\AsignaturaPOO_Coding\PruebaVector\obj\Debug\net7.0\PruebaVector.csproj.AssemblyReference.cache
+D:\AsignaturaPOO_Coding\PruebaVector\obj\Debug\net7.0\PruebaVector.GeneratedMSBuildEditorConfig.editorconfig
+D:\AsignaturaPOO_Coding\PruebaVector\obj\Debug\net7.0\PruebaVector.AssemblyInfoInputs.cache
+D:\AsignaturaPOO_Coding\PruebaVector\obj\Debug\net7.0\PruebaVector.AssemblyInfo.cs
+D:\AsignaturaPOO_Coding\PruebaVector\obj\Debug\net7.0\PruebaVector.csproj.CoreCompileInputs.cache
+D:\AsignaturaPOO_Coding\PruebaVector\obj\Debug\net7.0\PruebaVector.dll
+D:\AsignaturaPOO_Coding\PruebaVector\obj\Debug\net7.0\refint\PruebaVector.dll
+D:\AsignaturaPOO_Coding\PruebaVector\obj\Debug\net7.0\PruebaVector.pdb
+D:\AsignaturaPOO_Coding\PruebaVector\obj\Debug\net7.0\PruebaVector.genruntimeconfig.cache
+D:\AsignaturaPOO_Coding\PruebaVector\obj\Debug\net7.0\ref\PruebaVector.dll

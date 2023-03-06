@@ -1,0 +1,15 @@
+D:\AsignaturaPOO_Coding\NombreCompleto\obj\Debug\net7.0\NombreCompleto.csproj.AssemblyReference.cache
+D:\AsignaturaPOO_Coding\NombreCompleto\obj\Debug\net7.0\NombreCompleto.GeneratedMSBuildEditorConfig.editorconfig
+D:\AsignaturaPOO_Coding\NombreCompleto\obj\Debug\net7.0\NombreCompleto.AssemblyInfoInputs.cache
+D:\AsignaturaPOO_Coding\NombreCompleto\obj\Debug\net7.0\NombreCompleto.AssemblyInfo.cs
+D:\AsignaturaPOO_Coding\NombreCompleto\obj\Debug\net7.0\NombreCompleto.csproj.CoreCompileInputs.cache
+D:\AsignaturaPOO_Coding\NombreCompleto\bin\Debug\net7.0\NombreCompleto.exe
+D:\AsignaturaPOO_Coding\NombreCompleto\bin\Debug\net7.0\NombreCompleto.deps.json
+D:\AsignaturaPOO_Coding\NombreCompleto\bin\Debug\net7.0\NombreCompleto.runtimeconfig.json
+D:\AsignaturaPOO_Coding\NombreCompleto\bin\Debug\net7.0\NombreCompleto.dll
+D:\AsignaturaPOO_Coding\NombreCompleto\bin\Debug\net7.0\NombreCompleto.pdb
+D:\AsignaturaPOO_Coding\NombreCompleto\obj\Debug\net7.0\NombreCompleto.dll
+D:\AsignaturaPOO_Coding\NombreCompleto\obj\Debug\net7.0\refint\NombreCompleto.dll
+D:\AsignaturaPOO_Coding\NombreCompleto\obj\Debug\net7.0\NombreCompleto.pdb
+D:\AsignaturaPOO_Coding\NombreCompleto\obj\Debug\net7.0\NombreCompleto.genruntimeconfig.cache
+D:\AsignaturaPOO_Coding\NombreCompleto\obj\Debug\net7.0\ref\NombreCompleto.dll

@@ -1,0 +1,15 @@
+D:\AsignaturaPOO_Coding\SumaNumeros\obj\Debug\net7.0\SumaNumeros.csproj.AssemblyReference.cache
+D:\AsignaturaPOO_Coding\SumaNumeros\obj\Debug\net7.0\SumaNumeros.GeneratedMSBuildEditorConfig.editorconfig
+D:\AsignaturaPOO_Coding\SumaNumeros\obj\Debug\net7.0\SumaNumeros.AssemblyInfoInputs.cache
+D:\AsignaturaPOO_Coding\SumaNumeros\obj\Debug\net7.0\SumaNumeros.AssemblyInfo.cs
+D:\AsignaturaPOO_Coding\SumaNumeros\obj\Debug\net7.0\SumaNumeros.csproj.CoreCompileInputs.cache
+D:\AsignaturaPOO_Coding\SumaNumeros\bin\Debug\net7.0\SumaNumeros.exe
+D:\AsignaturaPOO_Coding\SumaNumeros\bin\Debug\net7.0\SumaNumeros.deps.json
+D:\AsignaturaPOO_Coding\SumaNumeros\bin\Debug\net7.0\SumaNumeros.runtimeconfig.json
+D:\AsignaturaPOO_Coding\SumaNumeros\bin\Debug\net7.0\SumaNumeros.dll
+D:\AsignaturaPOO_Coding\SumaNumeros\bin\Debug\net7.0\SumaNumeros.pdb
+D:\AsignaturaPOO_Coding\SumaNumeros\obj\Debug\net7.0\SumaNumeros.dll
+D:\AsignaturaPOO_Coding\SumaNumeros\obj\Debug\net7.0\refint\SumaNumeros.dll
+D:\AsignaturaPOO_Coding\SumaNumeros\obj\Debug\net7.0\SumaNumeros.pdb
+D:\AsignaturaPOO_Coding\SumaNumeros\obj\Debug\net7.0\SumaNumeros.genruntimeconfig.cache
+D:\AsignaturaPOO_Coding\SumaNumeros\obj\Debug\net7.0\ref\SumaNumeros.dll
