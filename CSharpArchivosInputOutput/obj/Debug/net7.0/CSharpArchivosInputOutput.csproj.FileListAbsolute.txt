@@ -1,0 +1,15 @@
+D:\GitHub_Repos\csharp_examples\CSharpArchivosInputOutput\obj\Debug\net7.0\CSharpArchivosInputOutput.csproj.AssemblyReference.cache
+D:\GitHub_Repos\csharp_examples\CSharpArchivosInputOutput\obj\Debug\net7.0\CSharpArchivosInputOutput.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Repos\csharp_examples\CSharpArchivosInputOutput\obj\Debug\net7.0\CSharpArchivosInputOutput.AssemblyInfoInputs.cache
+D:\GitHub_Repos\csharp_examples\CSharpArchivosInputOutput\obj\Debug\net7.0\CSharpArchivosInputOutput.AssemblyInfo.cs
+D:\GitHub_Repos\csharp_examples\CSharpArchivosInputOutput\obj\Debug\net7.0\CSharpArchivosInputOutput.csproj.CoreCompileInputs.cache
+D:\GitHub_Repos\csharp_examples\CSharpArchivosInputOutput\bin\Debug\net7.0\CSharpArchivosInputOutput.exe
+D:\GitHub_Repos\csharp_examples\CSharpArchivosInputOutput\bin\Debug\net7.0\CSharpArchivosInputOutput.deps.json
+D:\GitHub_Repos\csharp_examples\CSharpArchivosInputOutput\bin\Debug\net7.0\CSharpArchivosInputOutput.runtimeconfig.json
+D:\GitHub_Repos\csharp_examples\CSharpArchivosInputOutput\bin\Debug\net7.0\CSharpArchivosInputOutput.dll
+D:\GitHub_Repos\csharp_examples\CSharpArchivosInputOutput\bin\Debug\net7.0\CSharpArchivosInputOutput.pdb
+D:\GitHub_Repos\csharp_examples\CSharpArchivosInputOutput\obj\Debug\net7.0\CSharpArchivosInputOutput.dll
+D:\GitHub_Repos\csharp_examples\CSharpArchivosInputOutput\obj\Debug\net7.0\refint\CSharpArchivosInputOutput.dll
+D:\GitHub_Repos\csharp_examples\CSharpArchivosInputOutput\obj\Debug\net7.0\CSharpArchivosInputOutput.pdb
+D:\GitHub_Repos\csharp_examples\CSharpArchivosInputOutput\obj\Debug\net7.0\CSharpArchivosInputOutput.genruntimeconfig.cache
+D:\GitHub_Repos\csharp_examples\CSharpArchivosInputOutput\obj\Debug\net7.0\ref\CSharpArchivosInputOutput.dll

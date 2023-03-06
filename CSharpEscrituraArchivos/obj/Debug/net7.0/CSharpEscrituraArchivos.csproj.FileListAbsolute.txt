@@ -1,0 +1,15 @@
+D:\GitHub_Repos\csharp_examples\CSharpEscrituraArchivos\obj\Debug\net7.0\CSharpEscrituraArchivos.csproj.AssemblyReference.cache
+D:\GitHub_Repos\csharp_examples\CSharpEscrituraArchivos\obj\Debug\net7.0\CSharpEscrituraArchivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Repos\csharp_examples\CSharpEscrituraArchivos\obj\Debug\net7.0\CSharpEscrituraArchivos.AssemblyInfoInputs.cache
+D:\GitHub_Repos\csharp_examples\CSharpEscrituraArchivos\obj\Debug\net7.0\CSharpEscrituraArchivos.AssemblyInfo.cs
+D:\GitHub_Repos\csharp_examples\CSharpEscrituraArchivos\obj\Debug\net7.0\CSharpEscrituraArchivos.csproj.CoreCompileInputs.cache
+D:\GitHub_Repos\csharp_examples\CSharpEscrituraArchivos\bin\Debug\net7.0\CSharpEscrituraArchivos.exe
+D:\GitHub_Repos\csharp_examples\CSharpEscrituraArchivos\bin\Debug\net7.0\CSharpEscrituraArchivos.deps.json
+D:\GitHub_Repos\csharp_examples\CSharpEscrituraArchivos\bin\Debug\net7.0\CSharpEscrituraArchivos.runtimeconfig.json
+D:\GitHub_Repos\csharp_examples\CSharpEscrituraArchivos\bin\Debug\net7.0\CSharpEscrituraArchivos.dll
+D:\GitHub_Repos\csharp_examples\CSharpEscrituraArchivos\bin\Debug\net7.0\CSharpEscrituraArchivos.pdb
+D:\GitHub_Repos\csharp_examples\CSharpEscrituraArchivos\obj\Debug\net7.0\CSharpEscrituraArchivos.dll
+D:\GitHub_Repos\csharp_examples\CSharpEscrituraArchivos\obj\Debug\net7.0\refint\CSharpEscrituraArchivos.dll
+D:\GitHub_Repos\csharp_examples\CSharpEscrituraArchivos\obj\Debug\net7.0\CSharpEscrituraArchivos.pdb
+D:\GitHub_Repos\csharp_examples\CSharpEscrituraArchivos\obj\Debug\net7.0\CSharpEscrituraArchivos.genruntimeconfig.cache
+D:\GitHub_Repos\csharp_examples\CSharpEscrituraArchivos\obj\Debug\net7.0\ref\CSharpEscrituraArchivos.dll

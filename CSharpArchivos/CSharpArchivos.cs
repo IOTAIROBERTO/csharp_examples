@@ -6,11 +6,11 @@ namespace CSharpArchivos
     {
         public static void Main(string[] args)
         {
-            String line;
+            string line;
             try
             {
                 //Pass the file path and file name to the StreamReader constructor
-                StreamReader sr = new StreamReader("HelloWorld.txt");
+                StreamReader sr = new StreamReader("../HelloWorld.txt");
                 //Read the first line of text
                 line = sr.ReadLine();
                 //Continue to read until you reach end of file
