@@ -1,0 +1,15 @@
+D:\GitHub_Repos\csharp_examples\SumaNumeros_POO\bin\Debug\net7.0\SumaNumeros_POO.exe
+D:\GitHub_Repos\csharp_examples\SumaNumeros_POO\bin\Debug\net7.0\SumaNumeros_POO.deps.json
+D:\GitHub_Repos\csharp_examples\SumaNumeros_POO\bin\Debug\net7.0\SumaNumeros_POO.runtimeconfig.json
+D:\GitHub_Repos\csharp_examples\SumaNumeros_POO\bin\Debug\net7.0\SumaNumeros_POO.dll
+D:\GitHub_Repos\csharp_examples\SumaNumeros_POO\bin\Debug\net7.0\SumaNumeros_POO.pdb
+D:\GitHub_Repos\csharp_examples\SumaNumeros_POO\obj\Debug\net7.0\SumaNumeros_POO.csproj.AssemblyReference.cache
+D:\GitHub_Repos\csharp_examples\SumaNumeros_POO\obj\Debug\net7.0\SumaNumeros_POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Repos\csharp_examples\SumaNumeros_POO\obj\Debug\net7.0\SumaNumeros_POO.AssemblyInfoInputs.cache
+D:\GitHub_Repos\csharp_examples\SumaNumeros_POO\obj\Debug\net7.0\SumaNumeros_POO.AssemblyInfo.cs
+D:\GitHub_Repos\csharp_examples\SumaNumeros_POO\obj\Debug\net7.0\SumaNumeros_POO.csproj.CoreCompileInputs.cache
+D:\GitHub_Repos\csharp_examples\SumaNumeros_POO\obj\Debug\net7.0\SumaNumeros_POO.dll
+D:\GitHub_Repos\csharp_examples\SumaNumeros_POO\obj\Debug\net7.0\refint\SumaNumeros_POO.dll
+D:\GitHub_Repos\csharp_examples\SumaNumeros_POO\obj\Debug\net7.0\SumaNumeros_POO.pdb
+D:\GitHub_Repos\csharp_examples\SumaNumeros_POO\obj\Debug\net7.0\SumaNumeros_POO.genruntimeconfig.cache
+D:\GitHub_Repos\csharp_examples\SumaNumeros_POO\obj\Debug\net7.0\ref\SumaNumeros_POO.dll

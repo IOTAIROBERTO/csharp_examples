@@ -5,7 +5,6 @@
         private string[] nombres;
         private int[] edades;
 
-
         public void Cargar()
     	{
         	nombres = new string[5];

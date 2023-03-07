@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SumaNumeros_POO/1.0.0": {
+        "runtime": {
+          "SumaNumeros_POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SumaNumeros_POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

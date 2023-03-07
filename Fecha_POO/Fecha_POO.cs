@@ -1,7 +1,7 @@
 ﻿
-namespace Fecha
+namespace Fecha_POO
 {
-    class Fecha
+    class Fecha_POO
     {
         public void PrintFecha()
         {
@@ -13,7 +13,7 @@ namespace Fecha
 
         public static void Main(string[] args)
         {
-            Fecha m_printfecha = new Fecha();
+            Fecha_POO m_printfecha = new Fecha_POO();
             m_printfecha.PrintFecha();
         }
     }

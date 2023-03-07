@@ -1,5 +1,4 @@
-﻿
-namespace Fecha
+﻿namespace Fecha
 {
     class Fecha
     {

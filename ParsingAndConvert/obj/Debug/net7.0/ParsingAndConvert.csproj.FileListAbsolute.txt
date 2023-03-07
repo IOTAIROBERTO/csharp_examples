@@ -1,0 +1,15 @@
+D:\GitHub_Repos\csharp_examples\ParsingAndConvert\bin\Debug\net7.0\ParsingAndConvert.exe
+D:\GitHub_Repos\csharp_examples\ParsingAndConvert\bin\Debug\net7.0\ParsingAndConvert.deps.json
+D:\GitHub_Repos\csharp_examples\ParsingAndConvert\bin\Debug\net7.0\ParsingAndConvert.runtimeconfig.json
+D:\GitHub_Repos\csharp_examples\ParsingAndConvert\bin\Debug\net7.0\ParsingAndConvert.dll
+D:\GitHub_Repos\csharp_examples\ParsingAndConvert\bin\Debug\net7.0\ParsingAndConvert.pdb
+D:\GitHub_Repos\csharp_examples\ParsingAndConvert\obj\Debug\net7.0\ParsingAndConvert.csproj.AssemblyReference.cache
+D:\GitHub_Repos\csharp_examples\ParsingAndConvert\obj\Debug\net7.0\ParsingAndConvert.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Repos\csharp_examples\ParsingAndConvert\obj\Debug\net7.0\ParsingAndConvert.AssemblyInfoInputs.cache
+D:\GitHub_Repos\csharp_examples\ParsingAndConvert\obj\Debug\net7.0\ParsingAndConvert.AssemblyInfo.cs
+D:\GitHub_Repos\csharp_examples\ParsingAndConvert\obj\Debug\net7.0\ParsingAndConvert.csproj.CoreCompileInputs.cache
+D:\GitHub_Repos\csharp_examples\ParsingAndConvert\obj\Debug\net7.0\ParsingAndConvert.dll
+D:\GitHub_Repos\csharp_examples\ParsingAndConvert\obj\Debug\net7.0\refint\ParsingAndConvert.dll
+D:\GitHub_Repos\csharp_examples\ParsingAndConvert\obj\Debug\net7.0\ParsingAndConvert.pdb
+D:\GitHub_Repos\csharp_examples\ParsingAndConvert\obj\Debug\net7.0\ParsingAndConvert.genruntimeconfig.cache
+D:\GitHub_Repos\csharp_examples\ParsingAndConvert\obj\Debug\net7.0\ref\ParsingAndConvert.dll

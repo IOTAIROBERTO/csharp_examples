@@ -1,0 +1,15 @@
+D:\GitHub_Repos\csharp_examples\AreaCuadrado_POO\obj\Debug\net7.0\AreaCuadrado_POO.csproj.AssemblyReference.cache
+D:\GitHub_Repos\csharp_examples\AreaCuadrado_POO\obj\Debug\net7.0\AreaCuadrado_POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Repos\csharp_examples\AreaCuadrado_POO\obj\Debug\net7.0\AreaCuadrado_POO.AssemblyInfoInputs.cache
+D:\GitHub_Repos\csharp_examples\AreaCuadrado_POO\obj\Debug\net7.0\AreaCuadrado_POO.AssemblyInfo.cs
+D:\GitHub_Repos\csharp_examples\AreaCuadrado_POO\obj\Debug\net7.0\AreaCuadrado_POO.csproj.CoreCompileInputs.cache
+D:\GitHub_Repos\csharp_examples\AreaCuadrado_POO\bin\Debug\net7.0\AreaCuadrado_POO.exe
+D:\GitHub_Repos\csharp_examples\AreaCuadrado_POO\bin\Debug\net7.0\AreaCuadrado_POO.deps.json
+D:\GitHub_Repos\csharp_examples\AreaCuadrado_POO\bin\Debug\net7.0\AreaCuadrado_POO.runtimeconfig.json
+D:\GitHub_Repos\csharp_examples\AreaCuadrado_POO\bin\Debug\net7.0\AreaCuadrado_POO.dll
+D:\GitHub_Repos\csharp_examples\AreaCuadrado_POO\bin\Debug\net7.0\AreaCuadrado_POO.pdb
+D:\GitHub_Repos\csharp_examples\AreaCuadrado_POO\obj\Debug\net7.0\AreaCuadrado_POO.dll
+D:\GitHub_Repos\csharp_examples\AreaCuadrado_POO\obj\Debug\net7.0\refint\AreaCuadrado_POO.dll
+D:\GitHub_Repos\csharp_examples\AreaCuadrado_POO\obj\Debug\net7.0\AreaCuadrado_POO.pdb
+D:\GitHub_Repos\csharp_examples\AreaCuadrado_POO\obj\Debug\net7.0\AreaCuadrado_POO.genruntimeconfig.cache
+D:\GitHub_Repos\csharp_examples\AreaCuadrado_POO\obj\Debug\net7.0\ref\AreaCuadrado_POO.dll

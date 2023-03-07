@@ -11,11 +11,7 @@
             resultado = IsPair(resultado);
 
             //Imprimiendo el resultado
-            Console.WriteLine("El valor ingresado es: " + resultado);
-
-            //El programa espera a que se reciba una tecla
-            //La funcion de esto es que no se cierre el programa
-            Console.ReadKey();
+            Console.WriteLine("El valor ingresado es: " + resultado); 
         }
 
         public static string IsPair(string input)

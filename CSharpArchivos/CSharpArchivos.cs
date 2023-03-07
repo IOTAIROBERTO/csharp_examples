@@ -1,8 +1,8 @@
 ﻿using System.IO;
 
-namespace CSharpArchivos
+namespace CSharpEscrituraArchivos
 {
-    class CSharpArchivos
+    class CSharpEscrituraArchivos
     {
         public static void Main(string[] args)
         {

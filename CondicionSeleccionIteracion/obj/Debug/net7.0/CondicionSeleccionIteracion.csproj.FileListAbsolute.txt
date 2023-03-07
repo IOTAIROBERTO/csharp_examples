@@ -1,0 +1,15 @@
+D:\GitHub_Repos\csharp_examples\CondicionSeleccionIteracion\bin\Debug\net7.0\CondicionSeleccionIteracion.exe
+D:\GitHub_Repos\csharp_examples\CondicionSeleccionIteracion\bin\Debug\net7.0\CondicionSeleccionIteracion.deps.json
+D:\GitHub_Repos\csharp_examples\CondicionSeleccionIteracion\bin\Debug\net7.0\CondicionSeleccionIteracion.runtimeconfig.json
+D:\GitHub_Repos\csharp_examples\CondicionSeleccionIteracion\bin\Debug\net7.0\CondicionSeleccionIteracion.dll
+D:\GitHub_Repos\csharp_examples\CondicionSeleccionIteracion\bin\Debug\net7.0\CondicionSeleccionIteracion.pdb
+D:\GitHub_Repos\csharp_examples\CondicionSeleccionIteracion\obj\Debug\net7.0\CondicionSeleccionIteracion.csproj.AssemblyReference.cache
+D:\GitHub_Repos\csharp_examples\CondicionSeleccionIteracion\obj\Debug\net7.0\CondicionSeleccionIteracion.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Repos\csharp_examples\CondicionSeleccionIteracion\obj\Debug\net7.0\CondicionSeleccionIteracion.AssemblyInfoInputs.cache
+D:\GitHub_Repos\csharp_examples\CondicionSeleccionIteracion\obj\Debug\net7.0\CondicionSeleccionIteracion.AssemblyInfo.cs
+D:\GitHub_Repos\csharp_examples\CondicionSeleccionIteracion\obj\Debug\net7.0\CondicionSeleccionIteracion.csproj.CoreCompileInputs.cache
+D:\GitHub_Repos\csharp_examples\CondicionSeleccionIteracion\obj\Debug\net7.0\CondicionSeleccionIteracion.dll
+D:\GitHub_Repos\csharp_examples\CondicionSeleccionIteracion\obj\Debug\net7.0\refint\CondicionSeleccionIteracion.dll
+D:\GitHub_Repos\csharp_examples\CondicionSeleccionIteracion\obj\Debug\net7.0\CondicionSeleccionIteracion.pdb
+D:\GitHub_Repos\csharp_examples\CondicionSeleccionIteracion\obj\Debug\net7.0\CondicionSeleccionIteracion.genruntimeconfig.cache
+D:\GitHub_Repos\csharp_examples\CondicionSeleccionIteracion\obj\Debug\net7.0\ref\CondicionSeleccionIteracion.dll
