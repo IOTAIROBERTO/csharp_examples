@@ -1,0 +1,15 @@
+D:\GitHub_Repos\csharp_examples\HelloWorld_POO\bin\Debug\net7.0\HelloWorld_POO.exe
+D:\GitHub_Repos\csharp_examples\HelloWorld_POO\bin\Debug\net7.0\HelloWorld_POO.deps.json
+D:\GitHub_Repos\csharp_examples\HelloWorld_POO\bin\Debug\net7.0\HelloWorld_POO.runtimeconfig.json
+D:\GitHub_Repos\csharp_examples\HelloWorld_POO\bin\Debug\net7.0\HelloWorld_POO.dll
+D:\GitHub_Repos\csharp_examples\HelloWorld_POO\bin\Debug\net7.0\HelloWorld_POO.pdb
+D:\GitHub_Repos\csharp_examples\HelloWorld_POO\obj\Debug\net7.0\HelloWorld_POO.csproj.AssemblyReference.cache
+D:\GitHub_Repos\csharp_examples\HelloWorld_POO\obj\Debug\net7.0\HelloWorld_POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Repos\csharp_examples\HelloWorld_POO\obj\Debug\net7.0\HelloWorld_POO.AssemblyInfoInputs.cache
+D:\GitHub_Repos\csharp_examples\HelloWorld_POO\obj\Debug\net7.0\HelloWorld_POO.AssemblyInfo.cs
+D:\GitHub_Repos\csharp_examples\HelloWorld_POO\obj\Debug\net7.0\HelloWorld_POO.csproj.CoreCompileInputs.cache
+D:\GitHub_Repos\csharp_examples\HelloWorld_POO\obj\Debug\net7.0\HelloWorld_POO.dll
+D:\GitHub_Repos\csharp_examples\HelloWorld_POO\obj\Debug\net7.0\refint\HelloWorld_POO.dll
+D:\GitHub_Repos\csharp_examples\HelloWorld_POO\obj\Debug\net7.0\HelloWorld_POO.pdb
+D:\GitHub_Repos\csharp_examples\HelloWorld_POO\obj\Debug\net7.0\HelloWorld_POO.genruntimeconfig.cache
+D:\GitHub_Repos\csharp_examples\HelloWorld_POO\obj\Debug\net7.0\ref\HelloWorld_POO.dll

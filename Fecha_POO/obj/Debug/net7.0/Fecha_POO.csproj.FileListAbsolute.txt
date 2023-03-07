@@ -1,0 +1,15 @@
+D:\GitHub_Repos\csharp_examples\Fecha_POO\bin\Debug\net7.0\Fecha_POO.exe
+D:\GitHub_Repos\csharp_examples\Fecha_POO\bin\Debug\net7.0\Fecha_POO.deps.json
+D:\GitHub_Repos\csharp_examples\Fecha_POO\bin\Debug\net7.0\Fecha_POO.runtimeconfig.json
+D:\GitHub_Repos\csharp_examples\Fecha_POO\bin\Debug\net7.0\Fecha_POO.dll
+D:\GitHub_Repos\csharp_examples\Fecha_POO\bin\Debug\net7.0\Fecha_POO.pdb
+D:\GitHub_Repos\csharp_examples\Fecha_POO\obj\Debug\net7.0\Fecha_POO.csproj.AssemblyReference.cache
+D:\GitHub_Repos\csharp_examples\Fecha_POO\obj\Debug\net7.0\Fecha_POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Repos\csharp_examples\Fecha_POO\obj\Debug\net7.0\Fecha_POO.AssemblyInfoInputs.cache
+D:\GitHub_Repos\csharp_examples\Fecha_POO\obj\Debug\net7.0\Fecha_POO.AssemblyInfo.cs
+D:\GitHub_Repos\csharp_examples\Fecha_POO\obj\Debug\net7.0\Fecha_POO.csproj.CoreCompileInputs.cache
+D:\GitHub_Repos\csharp_examples\Fecha_POO\obj\Debug\net7.0\Fecha_POO.dll
+D:\GitHub_Repos\csharp_examples\Fecha_POO\obj\Debug\net7.0\refint\Fecha_POO.dll
+D:\GitHub_Repos\csharp_examples\Fecha_POO\obj\Debug\net7.0\Fecha_POO.pdb
+D:\GitHub_Repos\csharp_examples\Fecha_POO\obj\Debug\net7.0\Fecha_POO.genruntimeconfig.cache
+D:\GitHub_Repos\csharp_examples\Fecha_POO\obj\Debug\net7.0\ref\Fecha_POO.dll
