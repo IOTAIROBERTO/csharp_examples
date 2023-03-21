@@ -11,6 +11,11 @@
             salmons.Add("pink");
             salmons.Add("sockeye");
 
+            //salmons.Remove("coho");
+            //salmons.RemoveAt(0);
+            //salmons.RemoveAll(salmons => salmons.EndsWith("k"));
+            salmons.RemoveRange(2,2);
+
             // Iterate through the list.
             foreach (var salmon in salmons)
             {
