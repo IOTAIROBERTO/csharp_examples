@@ -1,0 +1,15 @@
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\HelloWorld_\bin\Debug\net7.0\HelloWorld_.exe
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\HelloWorld_\bin\Debug\net7.0\HelloWorld_.deps.json
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\HelloWorld_\bin\Debug\net7.0\HelloWorld_.runtimeconfig.json
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\HelloWorld_\bin\Debug\net7.0\HelloWorld_.dll
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\HelloWorld_\bin\Debug\net7.0\HelloWorld_.pdb
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\HelloWorld_\obj\Debug\net7.0\HelloWorld_.csproj.AssemblyReference.cache
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\HelloWorld_\obj\Debug\net7.0\HelloWorld_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\HelloWorld_\obj\Debug\net7.0\HelloWorld_.AssemblyInfoInputs.cache
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\HelloWorld_\obj\Debug\net7.0\HelloWorld_.AssemblyInfo.cs
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\HelloWorld_\obj\Debug\net7.0\HelloWorld_.csproj.CoreCompileInputs.cache
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\HelloWorld_\obj\Debug\net7.0\HelloWorld_.dll
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\HelloWorld_\obj\Debug\net7.0\refint\HelloWorld_.dll
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\HelloWorld_\obj\Debug\net7.0\HelloWorld_.pdb
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\HelloWorld_\obj\Debug\net7.0\HelloWorld_.genruntimeconfig.cache
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\HelloWorld_\obj\Debug\net7.0\ref\HelloWorld_.dll
