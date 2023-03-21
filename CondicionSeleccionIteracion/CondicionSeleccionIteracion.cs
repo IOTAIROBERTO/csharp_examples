@@ -33,7 +33,7 @@
                                 break;
                             case 2:
                                 int contador = 1;
-                                while (contador < nIteraciones)
+                                while (contador <= nIteraciones)
                                 {
                                     Console.WriteLine("Seleccionaste iterar " + nIteraciones + " veces con ciclo while y ésta es la #" + contador);
                                     contador++;

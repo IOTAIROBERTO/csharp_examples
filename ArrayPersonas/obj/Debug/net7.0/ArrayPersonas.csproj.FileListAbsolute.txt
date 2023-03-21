@@ -1,0 +1,15 @@
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\ArrayPersonas\obj\Debug\net7.0\ArrayPersonas.csproj.AssemblyReference.cache
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\ArrayPersonas\obj\Debug\net7.0\ArrayPersonas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\ArrayPersonas\obj\Debug\net7.0\ArrayPersonas.AssemblyInfoInputs.cache
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\ArrayPersonas\obj\Debug\net7.0\ArrayPersonas.AssemblyInfo.cs
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\ArrayPersonas\obj\Debug\net7.0\ArrayPersonas.csproj.CoreCompileInputs.cache
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\ArrayPersonas\bin\Debug\net7.0\ArrayPersonas.exe
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\ArrayPersonas\bin\Debug\net7.0\ArrayPersonas.deps.json
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\ArrayPersonas\bin\Debug\net7.0\ArrayPersonas.runtimeconfig.json
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\ArrayPersonas\bin\Debug\net7.0\ArrayPersonas.dll
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\ArrayPersonas\bin\Debug\net7.0\ArrayPersonas.pdb
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\ArrayPersonas\obj\Debug\net7.0\ArrayPersonas.dll
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\ArrayPersonas\obj\Debug\net7.0\refint\ArrayPersonas.dll
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\ArrayPersonas\obj\Debug\net7.0\ArrayPersonas.pdb
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\ArrayPersonas\obj\Debug\net7.0\ArrayPersonas.genruntimeconfig.cache
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\ArrayPersonas\obj\Debug\net7.0\ref\ArrayPersonas.dll
