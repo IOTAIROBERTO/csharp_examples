@@ -1,0 +1,15 @@
+D:\GitHub_Repos\csharp_examples\Ave_Interface\obj\Debug\net7.0\Ave_Interface.csproj.AssemblyReference.cache
+D:\GitHub_Repos\csharp_examples\Ave_Interface\obj\Debug\net7.0\Ave_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Repos\csharp_examples\Ave_Interface\obj\Debug\net7.0\Ave_Interface.AssemblyInfoInputs.cache
+D:\GitHub_Repos\csharp_examples\Ave_Interface\obj\Debug\net7.0\Ave_Interface.AssemblyInfo.cs
+D:\GitHub_Repos\csharp_examples\Ave_Interface\obj\Debug\net7.0\Ave_Interface.csproj.CoreCompileInputs.cache
+D:\GitHub_Repos\csharp_examples\Ave_Interface\bin\Debug\net7.0\Ave_Interface.exe
+D:\GitHub_Repos\csharp_examples\Ave_Interface\bin\Debug\net7.0\Ave_Interface.deps.json
+D:\GitHub_Repos\csharp_examples\Ave_Interface\bin\Debug\net7.0\Ave_Interface.runtimeconfig.json
+D:\GitHub_Repos\csharp_examples\Ave_Interface\bin\Debug\net7.0\Ave_Interface.dll
+D:\GitHub_Repos\csharp_examples\Ave_Interface\bin\Debug\net7.0\Ave_Interface.pdb
+D:\GitHub_Repos\csharp_examples\Ave_Interface\obj\Debug\net7.0\Ave_Interface.dll
+D:\GitHub_Repos\csharp_examples\Ave_Interface\obj\Debug\net7.0\refint\Ave_Interface.dll
+D:\GitHub_Repos\csharp_examples\Ave_Interface\obj\Debug\net7.0\Ave_Interface.pdb
+D:\GitHub_Repos\csharp_examples\Ave_Interface\obj\Debug\net7.0\Ave_Interface.genruntimeconfig.cache
+D:\GitHub_Repos\csharp_examples\Ave_Interface\obj\Debug\net7.0\ref\Ave_Interface.dll

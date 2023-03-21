@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AreaPerimetro_Interface/1.0.0": {
+        "runtime": {
+          "AreaPerimetro_Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AreaPerimetro_Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

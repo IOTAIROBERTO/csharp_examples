@@ -1,0 +1,15 @@
+D:\GitHub_Repos\csharp_examples\Encapsulamiento02\bin\Debug\net7.0\Encapsulamiento02.exe
+D:\GitHub_Repos\csharp_examples\Encapsulamiento02\bin\Debug\net7.0\Encapsulamiento02.deps.json
+D:\GitHub_Repos\csharp_examples\Encapsulamiento02\bin\Debug\net7.0\Encapsulamiento02.runtimeconfig.json
+D:\GitHub_Repos\csharp_examples\Encapsulamiento02\bin\Debug\net7.0\Encapsulamiento02.dll
+D:\GitHub_Repos\csharp_examples\Encapsulamiento02\bin\Debug\net7.0\Encapsulamiento02.pdb
+D:\GitHub_Repos\csharp_examples\Encapsulamiento02\obj\Debug\net7.0\Encapsulamiento02.csproj.AssemblyReference.cache
+D:\GitHub_Repos\csharp_examples\Encapsulamiento02\obj\Debug\net7.0\Encapsulamiento02.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Repos\csharp_examples\Encapsulamiento02\obj\Debug\net7.0\Encapsulamiento02.AssemblyInfoInputs.cache
+D:\GitHub_Repos\csharp_examples\Encapsulamiento02\obj\Debug\net7.0\Encapsulamiento02.AssemblyInfo.cs
+D:\GitHub_Repos\csharp_examples\Encapsulamiento02\obj\Debug\net7.0\Encapsulamiento02.csproj.CoreCompileInputs.cache
+D:\GitHub_Repos\csharp_examples\Encapsulamiento02\obj\Debug\net7.0\Encapsulamiento02.dll
+D:\GitHub_Repos\csharp_examples\Encapsulamiento02\obj\Debug\net7.0\refint\Encapsulamiento02.dll
+D:\GitHub_Repos\csharp_examples\Encapsulamiento02\obj\Debug\net7.0\Encapsulamiento02.pdb
+D:\GitHub_Repos\csharp_examples\Encapsulamiento02\obj\Debug\net7.0\Encapsulamiento02.genruntimeconfig.cache
+D:\GitHub_Repos\csharp_examples\Encapsulamiento02\obj\Debug\net7.0\ref\Encapsulamiento02.dll

@@ -1,0 +1,15 @@
+D:\GitHub_Repos\csharp_examples\ColeccionesYListas01\obj\Debug\net7.0\ColeccionesYListas01.csproj.AssemblyReference.cache
+D:\GitHub_Repos\csharp_examples\ColeccionesYListas01\obj\Debug\net7.0\ColeccionesYListas01.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Repos\csharp_examples\ColeccionesYListas01\obj\Debug\net7.0\ColeccionesYListas01.AssemblyInfoInputs.cache
+D:\GitHub_Repos\csharp_examples\ColeccionesYListas01\obj\Debug\net7.0\ColeccionesYListas01.AssemblyInfo.cs
+D:\GitHub_Repos\csharp_examples\ColeccionesYListas01\obj\Debug\net7.0\ColeccionesYListas01.csproj.CoreCompileInputs.cache
+D:\GitHub_Repos\csharp_examples\ColeccionesYListas01\bin\Debug\net7.0\ColeccionesYListas01.exe
+D:\GitHub_Repos\csharp_examples\ColeccionesYListas01\bin\Debug\net7.0\ColeccionesYListas01.deps.json
+D:\GitHub_Repos\csharp_examples\ColeccionesYListas01\bin\Debug\net7.0\ColeccionesYListas01.runtimeconfig.json
+D:\GitHub_Repos\csharp_examples\ColeccionesYListas01\bin\Debug\net7.0\ColeccionesYListas01.dll
+D:\GitHub_Repos\csharp_examples\ColeccionesYListas01\bin\Debug\net7.0\ColeccionesYListas01.pdb
+D:\GitHub_Repos\csharp_examples\ColeccionesYListas01\obj\Debug\net7.0\ColeccionesYListas01.dll
+D:\GitHub_Repos\csharp_examples\ColeccionesYListas01\obj\Debug\net7.0\refint\ColeccionesYListas01.dll
+D:\GitHub_Repos\csharp_examples\ColeccionesYListas01\obj\Debug\net7.0\ColeccionesYListas01.pdb
+D:\GitHub_Repos\csharp_examples\ColeccionesYListas01\obj\Debug\net7.0\ColeccionesYListas01.genruntimeconfig.cache
+D:\GitHub_Repos\csharp_examples\ColeccionesYListas01\obj\Debug\net7.0\ref\ColeccionesYListas01.dll

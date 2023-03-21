@@ -1,0 +1,15 @@
+D:\GitHub_Repos\csharp_examples\AreaPerimetro_Interface\bin\Debug\net7.0\AreaPerimetro_Interface.exe
+D:\GitHub_Repos\csharp_examples\AreaPerimetro_Interface\bin\Debug\net7.0\AreaPerimetro_Interface.deps.json
+D:\GitHub_Repos\csharp_examples\AreaPerimetro_Interface\bin\Debug\net7.0\AreaPerimetro_Interface.runtimeconfig.json
+D:\GitHub_Repos\csharp_examples\AreaPerimetro_Interface\bin\Debug\net7.0\AreaPerimetro_Interface.dll
+D:\GitHub_Repos\csharp_examples\AreaPerimetro_Interface\bin\Debug\net7.0\AreaPerimetro_Interface.pdb
+D:\GitHub_Repos\csharp_examples\AreaPerimetro_Interface\obj\Debug\net7.0\AreaPerimetro_Interface.csproj.AssemblyReference.cache
+D:\GitHub_Repos\csharp_examples\AreaPerimetro_Interface\obj\Debug\net7.0\AreaPerimetro_Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Repos\csharp_examples\AreaPerimetro_Interface\obj\Debug\net7.0\AreaPerimetro_Interface.AssemblyInfoInputs.cache
+D:\GitHub_Repos\csharp_examples\AreaPerimetro_Interface\obj\Debug\net7.0\AreaPerimetro_Interface.AssemblyInfo.cs
+D:\GitHub_Repos\csharp_examples\AreaPerimetro_Interface\obj\Debug\net7.0\AreaPerimetro_Interface.csproj.CoreCompileInputs.cache
+D:\GitHub_Repos\csharp_examples\AreaPerimetro_Interface\obj\Debug\net7.0\AreaPerimetro_Interface.dll
+D:\GitHub_Repos\csharp_examples\AreaPerimetro_Interface\obj\Debug\net7.0\refint\AreaPerimetro_Interface.dll
+D:\GitHub_Repos\csharp_examples\AreaPerimetro_Interface\obj\Debug\net7.0\AreaPerimetro_Interface.pdb
+D:\GitHub_Repos\csharp_examples\AreaPerimetro_Interface\obj\Debug\net7.0\AreaPerimetro_Interface.genruntimeconfig.cache
+D:\GitHub_Repos\csharp_examples\AreaPerimetro_Interface\obj\Debug\net7.0\ref\AreaPerimetro_Interface.dll

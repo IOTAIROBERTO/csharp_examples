@@ -1,0 +1,5 @@
+D:\GitHub_Repos\csharp_examples\Diccionario\obj\Debug\net7.0\Diccionario.csproj.AssemblyReference.cache
+D:\GitHub_Repos\csharp_examples\Diccionario\obj\Debug\net7.0\Diccionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_Repos\csharp_examples\Diccionario\obj\Debug\net7.0\Diccionario.AssemblyInfoInputs.cache
+D:\GitHub_Repos\csharp_examples\Diccionario\obj\Debug\net7.0\Diccionario.AssemblyInfo.cs
+D:\GitHub_Repos\csharp_examples\Diccionario\obj\Debug\net7.0\Diccionario.csproj.CoreCompileInputs.cache
