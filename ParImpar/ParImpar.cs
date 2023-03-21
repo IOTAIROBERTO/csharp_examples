@@ -23,7 +23,7 @@
 
         public static string Pair(int dataValue)
         {
-            if (dataValue % 2 == 0) return "es Par"; 
+            if (dataValue % 2 == 0) return "es Par"; // 2, 4, 6, 8, 10, 12..... 154862
             else return "es Impar"; 
         }
     }
