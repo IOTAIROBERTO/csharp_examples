@@ -1,0 +1,15 @@
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Polimorfismo02\obj\Debug\net7.0\Polimorfismo02.csproj.AssemblyReference.cache
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Polimorfismo02\obj\Debug\net7.0\Polimorfismo02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Polimorfismo02\obj\Debug\net7.0\Polimorfismo02.AssemblyInfoInputs.cache
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Polimorfismo02\obj\Debug\net7.0\Polimorfismo02.AssemblyInfo.cs
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Polimorfismo02\obj\Debug\net7.0\Polimorfismo02.csproj.CoreCompileInputs.cache
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Polimorfismo02\bin\Debug\net7.0\Polimorfismo02.exe
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Polimorfismo02\bin\Debug\net7.0\Polimorfismo02.deps.json
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Polimorfismo02\bin\Debug\net7.0\Polimorfismo02.runtimeconfig.json
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Polimorfismo02\bin\Debug\net7.0\Polimorfismo02.dll
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Polimorfismo02\bin\Debug\net7.0\Polimorfismo02.pdb
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Polimorfismo02\obj\Debug\net7.0\Polimorfismo02.dll
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Polimorfismo02\obj\Debug\net7.0\refint\Polimorfismo02.dll
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Polimorfismo02\obj\Debug\net7.0\Polimorfismo02.pdb
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Polimorfismo02\obj\Debug\net7.0\Polimorfismo02.genruntimeconfig.cache
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Polimorfismo02\obj\Debug\net7.0\ref\Polimorfismo02.dll

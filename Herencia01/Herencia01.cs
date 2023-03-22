@@ -22,7 +22,6 @@
         {
             Dog dog = new Dog();
             dog.Greet();
-            dog.Greet2();
         }
     } 
 }

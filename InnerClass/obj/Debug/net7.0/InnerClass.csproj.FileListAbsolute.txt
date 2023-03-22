@@ -1,0 +1,15 @@
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\InnerClass\bin\Debug\net7.0\InnerClass.exe
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\InnerClass\bin\Debug\net7.0\InnerClass.deps.json
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\InnerClass\bin\Debug\net7.0\InnerClass.runtimeconfig.json
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\InnerClass\bin\Debug\net7.0\InnerClass.dll
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\InnerClass\bin\Debug\net7.0\InnerClass.pdb
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\InnerClass\obj\Debug\net7.0\InnerClass.csproj.AssemblyReference.cache
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\InnerClass\obj\Debug\net7.0\InnerClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\InnerClass\obj\Debug\net7.0\InnerClass.AssemblyInfoInputs.cache
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\InnerClass\obj\Debug\net7.0\InnerClass.AssemblyInfo.cs
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\InnerClass\obj\Debug\net7.0\InnerClass.csproj.CoreCompileInputs.cache
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\InnerClass\obj\Debug\net7.0\InnerClass.dll
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\InnerClass\obj\Debug\net7.0\refint\InnerClass.dll
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\InnerClass\obj\Debug\net7.0\InnerClass.pdb
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\InnerClass\obj\Debug\net7.0\InnerClass.genruntimeconfig.cache
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\InnerClass\obj\Debug\net7.0\ref\InnerClass.dll
