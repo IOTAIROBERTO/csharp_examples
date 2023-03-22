@@ -1,0 +1,15 @@
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Herencia02\bin\Debug\net7.0\Herencia02.exe
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Herencia02\bin\Debug\net7.0\Herencia02.deps.json
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Herencia02\bin\Debug\net7.0\Herencia02.runtimeconfig.json
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Herencia02\bin\Debug\net7.0\Herencia02.dll
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Herencia02\bin\Debug\net7.0\Herencia02.pdb
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Herencia02\obj\Debug\net7.0\Herencia02.csproj.AssemblyReference.cache
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Herencia02\obj\Debug\net7.0\Herencia02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Herencia02\obj\Debug\net7.0\Herencia02.AssemblyInfoInputs.cache
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Herencia02\obj\Debug\net7.0\Herencia02.AssemblyInfo.cs
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Herencia02\obj\Debug\net7.0\Herencia02.csproj.CoreCompileInputs.cache
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Herencia02\obj\Debug\net7.0\Herencia02.dll
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Herencia02\obj\Debug\net7.0\refint\Herencia02.dll
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Herencia02\obj\Debug\net7.0\Herencia02.pdb
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Herencia02\obj\Debug\net7.0\Herencia02.genruntimeconfig.cache
+C:\Users\vam_d\OneDrive\Documentos\GitHub\csharp_examples\Herencia02\obj\Debug\net7.0\ref\Herencia02.dll
