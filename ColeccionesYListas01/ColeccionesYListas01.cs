@@ -4,24 +4,26 @@
     {   
         static void Main(string[] args)
         {
-            // Create a list of strings.
             var salmons = new List<string>();
             salmons.Add("chinook");
             salmons.Add("coho");
             salmons.Add("pink");
             salmons.Add("sockeye");
 
-            //salmons.Remove("coho");
-            //salmons.RemoveAt(0);
-            //salmons.RemoveAll(salmons => salmons.EndsWith("k"));
-            salmons.RemoveRange(2,2);
+            //salmons.Remove("chinook");
 
-            // Iterate through the list.
-            foreach (var salmon in salmons)
+            //salmons.RemoveAt(0);
+
+            //salmons.RemoveRange(0, 2);
+
+            //salmons.RemoveAll(salmons => salmons.EndsWith("k"));
+
+            salmons.Clear();
+
+            foreach(var salmon in salmons)
             {
-                Console.Write(salmon + " ");
+                Console.WriteLine(salmon + " ");
             }
-            // Output: chinook coho pink sockeye
         } 
     }
 }

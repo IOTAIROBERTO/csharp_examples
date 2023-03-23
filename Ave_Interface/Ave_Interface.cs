@@ -1,18 +1,11 @@
 ﻿namespace Ave_Interface
 {
     class Ave_Interface
-    { 
+    {
         public interface IAve
         {
             void Volar();
             void Comer();
-        }
-
-        public class Ave : AvePropiedades
-        {
-            public Ave(string Nombre) : base(Nombre)
-            {
-            }
         }
 
         public class AvePropiedades : IAve
@@ -21,6 +14,7 @@
             public int Alas = 2;
             public int Cola = 1;
             public string Nombre { get; private set; }
+
             public AvePropiedades(string NAve)
             {
                 this.Nombre = NAve;
@@ -35,30 +29,32 @@
             }
         }
 
-         static void Main(string[] args)
+        public class Ave : AvePropiedades
         {
-            //Instanciamos dos clases del tipo ave pasando de parametro el nombre del ave
+            public Ave(string Nombre) : base(Nombre)
+            {
+
+            }
+        }
+        public static void Main(string[] args)
+        {
             Ave canario = new Ave("Canario");
             Ave cuervo = new Ave("Cuervo");
-            //Creamos una instancia de nuestra clase principal para llamar el metodo imprimir()
+
             Ave_Interface main = new Ave_Interface();
             main.imprimir(canario);
             main.imprimir(cuervo);
             Console.ReadKey();
         }
 
-        /// Imprimir the specified ave.
-        /// Este metodo imprimira las propiedades de una clase ave. 
-        /// Ave.
         public void imprimir(Ave ave)
         {
-            //Imprimimos el nombre del ave, el numero de patas y el numero de colas
-            Console.WriteLine("Soy un {0} tengo {1} Pata(s), {2} Ala(s) y {3} Cola(s)", ave.Nombre, ave.Patas, ave.Alas, ave.Cola);
-            //Llamamos a nuestros dos metodos de la interface Comer() y Volar()
+            Console.WriteLine("Soy un {0} tengo {1} pata(s), {2} Ala(s) y {3} Cola(s)", ave.Nombre, ave.Patas, ave.Alas, ave.Cola);
+
             Console.WriteLine("Puedo ");
             ave.Comer();
-            Console.WriteLine("y tambien puedo ");
+            Console.WriteLine(" y también puedo ");
             ave.Volar();
-        } 
+        }
     }
 }
